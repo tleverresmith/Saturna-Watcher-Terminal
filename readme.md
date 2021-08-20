@@ -15,7 +15,7 @@ Example
 
 
 ### TO-DO
-*These may not happen any time soon, I only work on this when the fancy strikes. Feel free to contribute code if you do these or anything else yourself!*
+*These may not happen any time soon, I only work on this when the fancy strikes. Feel free to contribute code if you do one of these improvments or anything else cool!*
 - Make it pull your Saturna holdings from a wallet address
 - Display the value in a currency of your choice
 - Give a simple price change indication 
